@@ -8,8 +8,8 @@
 
 *A multi-agent swarm intelligence engine that simulates public opinion, market sentiment, and social dynamics. Entirely on your hardware.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/nikmcfly/MiroFish-Offline?style=flat-square&color=DAA520)](https://github.com/nikmcfly/MiroFish-Offline/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/nikmcfly/MiroFish-Offline?style=flat-square)](https://github.com/nikmcfly/MiroFish-Offline/network)
+[![GitHub Stars](https://img.shields.io/github/stars/seifeur/MiroFish-Offline?style=flat-square&color=DAA520)](https://github.com/seifeur/MiroFish-Offline/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/seifeur/MiroFish-Offline?style=flat-square)](https://github.com/seifeur/MiroFish-Offline/network)
 [![Docker](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)](./LICENSE)
 
@@ -53,7 +53,7 @@ The [original MiroFish](https://github.com/666ghj/MiroFish) was built for the Ch
 ### Option A: Docker (easiest)
 
 ```bash
-git clone https://github.com/nikmcfly/MiroFish-Offline.git
+git clone https://github.com/seifeur/MiroFish-Offline.git
 cd MiroFish-Offline
 cp .env.example .env
 
